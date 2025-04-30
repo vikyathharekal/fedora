@@ -1,6 +1,6 @@
 {
   "name": "Fedora Development Container",
-  "image": "fedora:latest",
+  "image": "dhruvharness/poc:latest",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
